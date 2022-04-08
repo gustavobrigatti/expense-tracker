@@ -5,10 +5,12 @@ const App = () => {
     <C.Container>
       <C.Header>
         <C.HeaderText>Sistema Financeiro</C.HeaderText>
-        <C.Body>
-          ...
-        </C.Body>
       </C.Header>
+      <C.Body>
+        {/* Área de informações */}
+        {/* Área de inserção */}
+        {/* Tabela de itens */}
+      </C.Body>
     </C.Container>
   );
 }
